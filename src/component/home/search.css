@@ -1,0 +1,53 @@
+.imageContainer{
+    background:url('https://i.ibb.co/800G3gN/edumato.jpg');
+    border-style:solid;
+    border-color:white;
+    border-width:30px;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#logo{
+    text-align:center;
+    color:red;
+    font-weight:bold;
+    font-size:75px;
+    background:white;
+    height:120px;
+    width:120px;
+    margin:auto;
+    border-radius:50%;
+    margin-top:80px;
+    margin-bottom: 80px;
+}
+
+.heading{
+    text-align:center;
+    color:rgb(196, 28, 28);
+    font-size:36px;
+    font-weight: bold;
+}
+
+.locationSelector{
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align:center;
+    
+}
+
+.locationDropDown{
+    width:250px;
+    height:40px;
+    border-radius:2%;
+    font-size:15px;
+    border:none;
+}
+
+.restinput{
+    width:400px;
+    height:40px;
+    border-radius:2%;
+    font-size:15px;
+    border:none;
+    margin-left: 30px;
+}
